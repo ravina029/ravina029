@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [GenAI Projects](https://github.com/ravina029/LangchainProjects)
 
-- 🌱 I’m currently learning **MLOPs**
-
 - 💬 Ask me about **AI/ML/DL/GenAI**
 
 - 📫 How to reach me **vermraravina029@gmail.com**

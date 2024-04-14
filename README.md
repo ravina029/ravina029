@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravina</h1>
-<h3 align="center">Mathematics and Data Science Enthusiast</h3>
+<h3 align="center">Mathematician and Data Science Enthusiast</h3>
 
 - 🔭 I’m currently working on [GenAI Projects](https://github.com/ravina029/LangchainProjects)
 

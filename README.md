@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Ravina</h1>
-<h3 align="center">Mathematician and Data Science Enthusiast</h3>
+<h3 align="center">I am passionate about **Trustworthy and Reliable NLP, Explainable AI, and Language Model Interpretability**.  
+This repository showcases my applied projects, academic experiments, and code implementations in the field of **NLP and Responsible AI**.</h3>
 
-- 🔭 I’m currently working on [GenAI Projects](https://github.com/ravina029/LangchainProjects)
+- 🔭 I’m currently working on [Trustworthy and Reliable Postpartum, Pregnancy medical RAG application](https://github.com/ravina029/LangchainProjects)
 
 - 💬 Ask me about **AI/ML/DL/GenAI**
 

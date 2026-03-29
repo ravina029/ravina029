@@ -1,25 +1,71 @@
-<h1 align="center">Hi, I'm Ravina</h1>
-<h3 align="center">I am passionate about **Trustworthy and Reliable NLP, Explainable AI, and Language Model Interpretability**.  
-This repository showcases my applied projects, academic experiments, and code implementations in the field of **NLP and Responsible AI**.</h3>
+<h1 align="center">Ravina Verma</h1>
+<h3 align="center">Trustworthy NLP · Explainable AI · Reliable Language Model Evaluation</h3>
 
-- 🔭 I’m currently working on [Trustworthy and Reliable Postpartum, Pregnancy medical RAG application](https://github.com/ravina029/Maternal_postpartum_rag.git)
-
-- 💬 Ask me about **AI/ML/DL/GenAI**
-
-- 📫 How to reach me **vermraravina029@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ravinabehwal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravina behwal" height="30" width="40" />
-</a>
+<p align="center">
+I am interested in building <b>transparent, reliable, and safety-aware NLP systems</b> for high-stakes applications.  
+My work focuses on <b>Trustworthy and Reliable NLP, Explainable AI, Language Model Interpretability, and Responsible AI</b>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravina029&show_icons=true&locale=en&layout=compact" alt="ravina029" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravina029&show_icons=true&locale=en" alt="ravina029" /></p>
+- Research interests: **Trustworthy NLP, Explainable AI, Reliable LLMs, Bias/Fairness, and Responsible AI**
+- Currently working on **Trustworthy Maternal Postpartum Health RAG**
+- Interested in **PhD opportunities in Germany** in **trustworthy and reliable AI**
+- Background in **AI/ML, NLP, deep learning, and interpretable machine learning**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravina029&" alt="ravina029" /></p>
+---
+
+## Featured Projects
+
+### 1. Trustworthy Maternal Postpartum Health RAG
+A fully local, explainable, and safety-validated Retrieval-Augmented Generation (RAG) system for **reliable maternal and postpartum health guidance**.  
+It integrates **retrieval grounding, hallucination detection, safety scoring, and evidence traceability** to support transparent and trustworthy question answering in a high-stakes healthcare setting.
+
+🔗 **Repository:** [Maternal_postpartum_rag](https://github.com/ravina029/Maternal_postpartum_rag)
+
+---
+
+### 2. IMDB Sentiment Analysis with Explainability
+A sentiment classification pipeline comparing **classical machine learning models** and **DistilBERT**, with **LIME** and **SHAP** used for interpretability and decision analysis.
+
+🔗 **Repository:** [IMDB_text_classification](https://github.com/ravina029/IMDB_text_classification)
+
+---
+
+### 3. Dialogue-Based Text Summarization using BART
+A dialogue summarization project based on fine-tuning **BART** on the **SAMSum** dataset to generate concise summaries from conversational text, with deployment through a simple interactive interface.
+
+🔗 **Repository:** [Finetunedtextsummarizer](https://github.com/ravina029/Finetunedtextsummarizer)
+
+---
+
+## Current Research Directions
+
+- **Stance Detection using Large Language Models**
+- **Bias Detection and Correction in LLM Outputs**
+- **Privacy-Preserving Text Classification**
+- **Explainability and safety evaluation for generative NLP systems**
+
+---
+
+## Research Interests
+
+- Trustworthy & Explainable NLP  
+- Reliable and Safety-Aware Language Models  
+- Bias, Fairness, and Responsible AI  
+- Interpretability in Text Models  
+- NLP for High-Stakes Applications  
+
+---
+
+## Connect with Me
+
+- **Email:** vermraravina029@gmail.com
+- **GitHub:** [github.com/ravina029](https://github.com/ravina029)
+- **LinkedIn:** [linkedin.com/in/ravinabehwal](https://www.linkedin.com/in/ravinabehwal)
+
+---
+
+<p align="center"><i>Understanding why a model predicts something is as important as what it predicts.</i></p>

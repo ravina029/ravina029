@@ -1,4 +1,4 @@
-<h1 align="center">Ravina Verma</h1>
+<h1 align="center">Ravina Behwal</h1>
 <h3 align="center">Trustworthy NLP · Explainable AI · Reliable Language Model Evaluation</h3>
 
 <p align="center">

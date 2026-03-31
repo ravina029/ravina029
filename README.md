@@ -2,8 +2,14 @@
 <h3 align="center">Trustworthy NLP · Explainable AI · Reliable Language Model Evaluation</h3>
 
 <p align="center">
-I am interested in building <b>transparent, reliable, and safety-aware NLP systems</b> for high-stakes applications.  
+I am interested in building <b>transparent, reliable, and safety-aware NLP systems</b> for high-stakes applications.
 My work focuses on <b>Trustworthy and Reliable NLP, Explainable AI, Language Model Interpretability, and Responsible AI</b>.
+</p>
+
+<p align="center">
+  <a href="mailto:vermraravina029@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/ravinabehwal">LinkedIn</a> •
+  <a href="https://github.com/ravina029">GitHub</a>
 </p>
 
 ---
@@ -17,27 +23,53 @@ My work focuses on <b>Trustworthy and Reliable NLP, Explainable AI, Language Mod
 
 ---
 
-## Featured Projects
+## Featured Research Projects
 
-### 1. Trustworthy Maternal Postpartum Health RAG
-A fully local, explainable, and safety-validated Retrieval-Augmented Generation (RAG) system for **reliable maternal and postpartum health guidance**.  
-It integrates **retrieval grounding, hallucination detection, safety scoring, and evidence traceability** to support transparent and trustworthy question answering in a high-stakes healthcare setting.
+### Trustworthy Maternal Postpartum Health RAG
+A fully local, explainable, and safety-validated Retrieval-Augmented Generation (RAG) system for **reliable maternal and postpartum health guidance**. It integrates **retrieval grounding, hallucination detection, safety scoring, and evidence traceability** to support trustworthy question answering in a high-stakes healthcare setting.
 
-🔗 **Repository:** [Maternal_postpartum_rag](https://github.com/ravina029/Maternal_postpartum_rag)
+**Repository:** [Maternal_postpartum_rag](https://github.com/ravina029/Maternal_postpartum_rag)
+
+### IMDB Sentiment Analysis with Explainability
+A sentiment classification pipeline comparing **classical machine learning models** and **DistilBERT**, with **LIME** and **SHAP** for interpretability and model behavior analysis.
+
+**Repository:** [IMDB_text_classification](https://github.com/ravina029/IMDB_text_classification)
+
+### Dialogue-Based Text Summarization using BART
+A dialogue summarization project based on fine-tuning **BART** on the **SAMSum** dataset to generate concise summaries from conversational text.
+
+**Repository:** [Finetunedtextsummarizer](https://github.com/ravina029/Finetunedtextsummarizer)
 
 ---
 
-### 2. IMDB Sentiment Analysis with Explainability
-A sentiment classification pipeline comparing **classical machine learning models** and **DistilBERT**, with **LIME** and **SHAP** used for interpretability and decision analysis.
+## Top 6 Highlighted Projects
 
-🔗 **Repository:** [IMDB_text_classification](https://github.com/ravina029/IMDB_text_classification)
+<p align="center">
+  <a href="https://github.com/ravina029/Maternal_postpartum_rag">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravina029&repo=Maternal_postpartum_rag" />
+  </a>
+  <a href="https://github.com/ravina029/IMDB_text_classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravina029&repo=IMDB_text_classification" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/ravina029/Finetunedtextsummarizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravina029&repo=Finetunedtextsummarizer" />
+  </a>
+  <a href="https://github.com/ravina029/REPO_NAME_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravina029&repo=REPO_NAME_4" />
+  </a>
+</p>
 
-### 3. Dialogue-Based Text Summarization using BART
-A dialogue summarization project based on fine-tuning **BART** on the **SAMSum** dataset to generate concise summaries from conversational text, with deployment through a simple interactive interface.
-
-🔗 **Repository:** [Finetunedtextsummarizer](https://github.com/ravina029/Finetunedtextsummarizer)
+<p align="center">
+  <a href="https://github.com/ravina029/REPO_NAME_5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravina029&repo=REPO_NAME_5" />
+  </a>
+  <a href="https://github.com/ravina029/REPO_NAME_6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravina029&repo=REPO_NAME_6" />
+  </a>
+</p>
 
 ---
 
@@ -52,17 +84,17 @@ A dialogue summarization project based on fine-tuning **BART** on the **SAMSum**
 
 ## Research Interests
 
-- Trustworthy & Explainable NLP  
-- Reliable and Safety-Aware Language Models  
-- Bias, Fairness, and Responsible AI  
-- Interpretability in Text Models  
-- NLP for High-Stakes Applications  
+- Trustworthy & Explainable NLP
+- Reliable and Safety-Aware Language Models
+- Bias, Fairness, and Responsible AI
+- Interpretability in Text Models
+- NLP for High-Stakes Applications
 
 ---
 
 ## Connect with Me
 
-- **Email:** vermraravina029@gmail.com
+- **Email:** [vermraravina029@gmail.com](mailto:vermraravina029@gmail.com)
 - **GitHub:** [github.com/ravina029](https://github.com/ravina029)
 - **LinkedIn:** [linkedin.com/in/ravinabehwal](https://www.linkedin.com/in/ravinabehwal)
 

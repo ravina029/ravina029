@@ -42,37 +42,6 @@ A dialogue summarization project based on fine-tuning **BART** on the **SAMSum**
 
 ---
 
-## Top 6 Highlighted Projects
-
-<p align="center">
-  <a href="https://github.com/ravina029/Maternal_postpartum_rag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravina029&repo=Maternal_postpartum_rag" />
-  </a>
-  <a href="https://github.com/ravina029/IMDB_text_classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravina029&repo=IMDB_text_classification" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ravina029/Finetunedtextsummarizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravina029&repo=Finetunedtextsummarizer" />
-  </a>
-  <a href="https://github.com/ravina029/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravina029&repo=REPO_NAME_4" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ravina029/REPO_NAME_5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravina029&repo=REPO_NAME_5" />
-  </a>
-  <a href="https://github.com/ravina029/REPO_NAME_6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravina029&repo=REPO_NAME_6" />
-  </a>
-</p>
-
----
-
 ## Current Research Directions
 
 - **Stance Detection using Large Language Models**

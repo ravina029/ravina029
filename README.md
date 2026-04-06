@@ -30,7 +30,7 @@ A retrieval-augmented generation system for **maternal, postpartum, and newborn 
 - safety-aware response generation  
 - evidence-grounded explanations  
 
-🔗 https://github.com/ravina029/trustworthy-rag-maternal-health.git
+🔗 [https://github.com/ravina029/trustworthy-rag-maternal-health.git]
 ---
 
 ### 🎬 Sentiment Analysis: Classical vs Transformer Models

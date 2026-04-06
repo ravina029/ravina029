@@ -28,9 +28,11 @@ Building <b>transparent, reliable, and safety-aware NLP systems</b> for high-sta
 A retrieval-augmented generation system for **maternal, postpartum, and newborn health guidance**, designed with:
 - hallucination detection  
 - safety-aware response generation  
-- evidence-grounded explanations  
+- evidence-grounded explanations
 
-🔗 [https://github.com/ravina029/trustworthy-rag-maternal-health.git]
+🔗 https://github.com/ravina029/trustworthy-rag-maternal-health.git
+
+
 ---
 
 ### 🎬 Sentiment Analysis: Classical vs Transformer Models

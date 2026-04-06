@@ -24,14 +24,13 @@ Building <b>transparent, reliable, and safety-aware NLP systems</b> for high-sta
 
 ## 🌟 Featured Projects
 
-### 🩺 Trustworthy Healthcare RAG
+### 🩺 Trustworthy RAG Maternal Health
 A retrieval-augmented generation system for **maternal, postpartum, and newborn health guidance**, designed with:
 - hallucination detection  
 - safety-aware response generation  
 - evidence-grounded explanations  
 
-🔗 https://github.com/ravina029/trustworthy-healthcare-rag
-
+🔗 https://github.com/ravina029/trustworthy-rag-maternal-health.git
 ---
 
 ### 🎬 Sentiment Analysis: Classical vs Transformer Models

@@ -1,4 +1,4 @@
-<h1 align="center">Ravina Behwal</h1>
+<h1 align="center">Ravina</h1>
 <h3 align="center">Trustworthy NLP · Explainable AI · Reliable Language Models</h3>
 
 <p align="center">
